@@ -1,0 +1,37 @@
+.recherche {
+    width: 50%;
+    margin : auto;
+    color: green;
+}
+
+input[type="text"], textarea {
+    background-color: transparent;
+    border: 2px solid green;
+    outline: none;
+    color :green
+  }
+
+ .buto {
+  background-color: transparent; 
+  border: 2px solid green;;
+  color: grey;
+  text-align: center;
+  font-size: 2vh;
+  padding: .373rem .80rem;
+  margin : auto;
+  
+
+}
+input[type=text]:focus{
+    background-color: transparent;
+    border: 2px solid green;
+    outline:none !important;
+    outline-width: 0 !important;
+    box-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+  }
+
+  .buto:focus{
+    outline: none;
+  }

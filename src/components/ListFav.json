@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Damien"
+    },
+    {
+      "id": 2,
+      "name": "Louis"
+    }
+  ],
+  "favorites": [
+    {
+      "user_id": "2",
+      "movie_id": "98566",
+      "id": 6
+    },
+    {
+      "user_id": "2",
+      "movie_id": "99861",
+      "id": 8
+    },
+    {
+      "user_id": "2",
+      "movie_id": "324857",
+      "id": 9
+    },
+    {
+      "user_id": "2",
+      "movie_id": "299537",
+      "id": 10
+    },
+    {
+      "user_id": "2",
+      "movie_id": "280217",
+      "id": 11
+    },
+    {
+      "user_id": "2",
+      "movie_id": "360920",
+      "id": 12
+    }
+  ],
+  "rating": [
+    {
+      "user_id": "2",
+      "movie_id": "450465",
+      "rate": 8,
+      "id": 4
+    },
+    {
+      "user_id": "2",
+      "movie_id": "299537",
+      "rate": 8,
+      "id": 5
+    },
+    {
+      "user_id": "2",
+      "movie_id": "99861",
+      "rate": 8,
+      "id": 6
+    },
+    {
+      "user_id": "2",
+      "movie_id": "324857",
+      "rate": 9,
+      "id": 7
+    },
+    {
+      "user_id": "2",
+      "movie_id": "299536",
+      "rate": 7,
+      "id": 8
+    },
+    {
+      "user_id": "2",
+      "movie_id": "337339",
+      "rate": 2,
+      "id": 13
+    },
+    {
+      "user_id": "2",
+      "movie_id": "553141",
+      "rate": 3,
+      "id": 15
+    },
+    {
+      "user_id": "2",
+      "movie_id": "363088",
+      "rate": 8,
+      "id": 16
+    },
+    {
+      "user_id": "2",
+      "movie_id": "480414",
+      "rate": 3,
+      "id": 17
+    },
+    {
+      "user_id": "2",
+      "movie_id": "456740",
+      "rate": 6,
+      "id": 18
+    },
+    {
+      "user_id": "2",
+      "movie_id": "172",
+      "rate": 4,
+      "id": 19
+    },
+    {
+      "user_id": "2",
+      "movie_id": "166428",
+      "rate": 6,
+      "id": 20
+    },
+    {
+      "user_id": "2",
+      "movie_id": "280217",
+      "rate": 8,
+      "id": 21
+    },
+    {
+      "user_id": "2",
+      "movie_id": "404368",
+      "rate": 8,
+      "id": 22
+    }
+  ]
+}

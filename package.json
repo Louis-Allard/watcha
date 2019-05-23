@@ -1,0 +1,47 @@
+{
+  "name": "p2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "classnames": "^2.2.6",
+    "jquery": "^1.12.4",
+    "json": "^9.0.6",
+    "json-server": "^0.14.2",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.6",
+    "react-burger-menu": "^2.6.8",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.0",
+    "react-horizontal-scrolling-menu": "^0.5.7",
+    "react-iframe": "^1.5.0",
+    "react-image": "^2.1.1",
+    "react-rating": "^1.6.2",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "react-transition-group": "^2.6.1",
+    "react-youtube": "^7.9.0",
+    "reactstrap": "^7.1.0",
+    "styled-components": "^4.2.0",
+    "sweetalert": "^2.1.2",
+    "ts-pnp": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {}
+}

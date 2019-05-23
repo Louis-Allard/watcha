@@ -1,0 +1,149 @@
+
+  h1, h2, h3, h4, h5{
+    margin: 3%;
+  }
+  .movie-description{
+    width: 90%;
+    margin: 5%;
+  }
+  
+  .movie-synopsis {
+    text-align: left;
+  }
+  .movie-title{
+    text-align: left;
+    padding-bottom : 15px; 
+    color : #45D932; 
+  }
+  .movie-genre{
+    text-align: center;
+  }
+
+  .movie-pic{
+    display: inline;
+    justify-content: space-around;
+  }
+  .actor-pic{
+    width: 40%;
+  }
+  .actors-pics{
+    width: 20%;
+  }
+  .img-down{
+    text-align: center;
+  }
+  .movie-poster{
+    float: left;
+    width: 100%;
+    /*margin: 4%;*/
+  }
+  .movie-profil{
+    width: 10%;
+    margin : 8px;
+  }
+  .movie-casting{
+    text-align: center;
+    margin-bottom: 3%;
+  }
+  .movie-casting {
+    margin: 3%;
+  }
+  .ul-actors-pics{
+    display: inline-flex;
+    justify-content: space-around;
+  }
+  .youtube{
+    margin-top: 5%;
+    text-align: center;
+   
+  }
+  .movie-description h2 h4{
+    text-align: left;
+  }
+  .movie-synopsis{
+    text-align: left;
+  }
+  .movie-synopsis h2{
+    text-align: left;
+  }
+  .movie-director{
+    display: flex;
+    justify-content: space-around;
+  }
+  .movie-director span{
+    color: gray;
+  }
+  .infos-casting{
+    margin-left: 0;
+  }
+
+  .favicon {
+    width: 10%;
+    height:10%;
+    cursor: pointer;
+  }
+
+  .favicon:hover {
+    opacity: 0.5;
+  }
+
+  .movie-fav{
+    display:flex;
+    flex-direction: column;
+    width:20%;
+  }
+
+  
+  .textdeco {
+    border-radius: 3px 0 0 3px;
+    color: #999;
+    display: inline-block;
+    height: 26px;
+    line-height: 26px;
+    padding: 0 20px 0 23px;
+    position: relative;
+    margin: 0 10px 10px 0;
+    text-decoration: none;
+    -webkit-transition: color 0.2s;
+  }
+  
+  .textdeco::before {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
+    content: '';
+    height: 6px;
+    left: 10px;
+    position: absolute;
+    width: 6px;
+    top: 10px;
+  }
+  
+  .textdeco::after {
+    background:black;
+    border-bottom: 13px solid transparent;
+    border-left: 10px solid black;
+    border-top: 13px solid transparent;
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  
+  .textdeco:hover {
+    background-color: green;
+    color: white;
+  }
+  
+  .textdeco:hover::after {
+     border-left-color: green; 
+  }
+
+  .faviconblock{
+    display:flex;
+  }
+
+  .addfav{
+    margin-top:3%;
+  }
+  
